@@ -89,9 +89,9 @@ Developed ERP software, created documentation, and conducted testing.
   Database Administrator, IT Consultants Limited  
   📧 [matin0843@gmail.com](mailto:matin0843@gmail.com) | 📞 +8801816362874
 
-- **Shariful Islam**  
-  Head of IT, ShurjoMukhi Limited  
-  📧 [shariful@shurjomukhi.com.bd](mailto:shariful@shurjomukhi.com.bd) | 📞 +880174683510
+- **Md. Sanaullah Asif**  
+  Team Lead, ShurjoMukhi Limited  
+  📧 [asif@shurjomukhi.com.bd ](mailto:asif@shurjomukhi.com.bd) | 📞 +8801818482731
 
 ---
 
